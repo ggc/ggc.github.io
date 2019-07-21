@@ -1,0 +1,17 @@
+.SideBar {
+    background-color: aquamarine;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    width: 3rem;
+}
+
+.SideBar_title {
+    color: red;
+}
+
+.SideBar__option {}
+
+.SideBar__img {
+    width: 100%;
+}
