@@ -1,0 +1,2 @@
+# Bypassing Jekyll server
+# This ensures that assets in _nuxt/ folder can be served by GitHub Pages.
