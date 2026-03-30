@@ -1,1 +1,0 @@
-import{_ as t,o,c as s,r as n}from"./CexMSaHy.js";const a={},c={class:"tui-btns"};function r(e,_){return o(),s("div",c,[n(e.$slots,"default",{},void 0,!0)])}const d=Object.assign(t(a,[["render",r],["__scopeId","data-v-ac0a4e84"]]),{__name:"TuiButtonGroup"});export{d as default};

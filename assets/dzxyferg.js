@@ -1,0 +1,1 @@
+import{_ as r,c as s,r as o,o as t}from"./CAXOF1kZ.js";const n={};function c(e,a){return t(),s("th",null,[o(e.$slots,"default")])}const l=Object.assign(r(n,[["render",c]]),{__name:"ProseTh"});export{l as default};
